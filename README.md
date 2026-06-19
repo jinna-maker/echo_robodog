@@ -6,10 +6,10 @@
 # 🐕🤖 ECHO RoboDOG  
 ## หุ่นยนต์สุนัขอัจฉริยะเพื่อการตรวจวัดและตอบสนองด้านความปลอดภัย  
 ### A Smart Robot Dog for Modular Sensing and Safety Response
-
+![Design](images/echo01.png)
 <br>
 
-![Design](images/echo01.png)
+
 
 <br>
 
